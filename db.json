@@ -1,0 +1,58 @@
+{
+  "critical": [
+    {
+      "bug": "Katill",
+      "id": 1
+    },
+    {
+      "bug": "testing",
+      "id": 2
+    }
+  ],
+  "major": [
+    {
+      "bug": "bug",
+      "id": 1
+    },
+    {
+      "bug": "it's not working as I want",
+      "id": 2
+    }
+  ],
+  "medium": [
+    {
+      "bug": "katill_boyy",
+      "id": 1
+    },
+    {
+      "bug": "testing",
+      "id": 2
+    },
+    {
+      "bug": "nice",
+      "id": 3
+    },
+    {
+      "bug": "rohan",
+      "id": 4
+    }
+  ],
+  "low": [
+    {
+      "bug": "testing",
+      "id": 1
+    },
+    {
+      "bug": "1",
+      "id": 2
+    },
+    {
+      "bug": "this is fist low bug",
+      "id": 3
+    },
+    {
+      "bug": "123",
+      "id": 4
+    }
+  ]
+}
